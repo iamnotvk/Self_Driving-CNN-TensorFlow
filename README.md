@@ -1,5 +1,4 @@
 # Self Driving Car
-[![N|Solid](https://www.linkedin.com/in/iamnotvk/)
 
 Self Driving Car Convolutional Neural Network implementation using TensorFlow.
 
